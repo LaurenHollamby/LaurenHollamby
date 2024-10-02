@@ -1,5 +1,5 @@
 - # Hello, world! 👋
-- 👍 Likes: Photography 📸, yoga 🧘‍♀️, hiking 🚶‍♀️, food 🍕
+- 👍 Likes: Photography 📸, yoga 🧘‍♀️, hiking 🚶‍♀️, food 🍕, mountains :mountain_snow:, snow :snowflake:
 - 👎 Dislikes: Spiders 🕷️, tea 🍵, rain 🌧️
 - ❤️ Family: Matt, Charlie (7), Olivia (5), Rufus 🐶
 - 🇫🇷 Learning: French
@@ -9,6 +9,7 @@
 - 🍂 Favourite season: Fall
 - ♈ Starsign: Aries
 - :candy: Sweet tooth :icecream:
+
 
 <!---
 LaurenHollamby/LaurenHollamby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
