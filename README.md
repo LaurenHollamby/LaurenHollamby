@@ -9,6 +9,7 @@
 - 🍂 Favourite season: Fall
 - ♈ Starsign: Aries
 - :candy: Sweet tooth :icecream:
+- :orangutan: Favourite animal: Orangutan
 
 
 <!---
