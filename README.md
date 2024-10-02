@@ -8,7 +8,7 @@
 - 🎵 Music: 90's & 00's rock 🤘
 - 🍂 Favourite season: Fall
 - ♈ Starsign: Aries
-  
+- :candy: Sweet tooth :icecream:
 
 <!---
 LaurenHollamby/LaurenHollamby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
