@@ -7,6 +7,7 @@
 - 🎃 Favourite holiday: Halloween
 - 🎵 Music: 90's & 00's rock 🤘
 - 🍂 Favourite season: Fall
+- ♈ Starsign: Aries
   
 
 <!---
